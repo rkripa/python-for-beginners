@@ -1,0 +1,43 @@
+Installation Instructions
+-------------------------
+In this course we will use Python 3.6 and Jupyter notebook. 
+  - Have these installed before the class if you plan to use your own laptop
+  - The lab does have desktops with these software installed
+
+
+Install Python 3.6 and Jupyter:
+------------------------------
+If you already have Python 3.6 and Jupyter installed on your computer then you can skip the following download instructions.
+
+Option 1:
+--------
+https://www.python.org/downloads/
+http://jupyter.org/install
+
+
+Option 2:
+--------
+Download Anaconda (https://www.anaconda.com/download/#macos)
+
+Pick the appropriate operating system and choose Python, version 3.6. Once the installer is downloaded, execute it. This will install Anaconda and associated packages on your computer.
+
+Depending on your operating system, open “Anaconda Navigator”
+
+Jupyter notebook is a browser based tool to execute Python code. This is popular for teaching and learning. To launch Jupyter notebook, click on the launch button under the Jupyter logo. This will launch your default browser and open the homepage of Jupyter. 
+
+
+
+Download the jupyter notebooks from github:
+------------------------------------------
+
+Option 1:
+--------
+If you have git installed on your computer you can: 
+$git clone https://github.com/rkripa/python-for-beginners.git
+
+
+Option 2:
+--------
+Visit the github.com using the url:  https://github.com/rkripa/python-for-beginners
+
+Press the green button which says "Clone or download".  Then click on the download ZIP file on your laptop and unzip its contents.
